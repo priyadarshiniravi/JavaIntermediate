@@ -1,6 +1,6 @@
 package immutable;
 
-class Student {
+final class Student {
     final String name;
     final Address address;
 
