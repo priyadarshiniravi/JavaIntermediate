@@ -2,11 +2,6 @@
 
 String is an Immutable object in java.
 
-### Immutability
-* Once created cannot be changed
-* Thread Safe
-* Safe for use by other libraries
-
 ### String Immutability
 * String is nothing but a list of character[] 
 * character[] final so this can never be alter once constructed
