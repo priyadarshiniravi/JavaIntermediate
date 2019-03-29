@@ -1,4 +1,4 @@
-package Immutable;
+package immutable;
 
 import org.junit.Test;
 

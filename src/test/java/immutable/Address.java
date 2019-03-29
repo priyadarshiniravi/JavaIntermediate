@@ -1,4 +1,4 @@
-package Immutable;
+package immutable;
 
 public class Address {
     String line1;

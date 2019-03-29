@@ -1,4 +1,4 @@
-package Immutable;
+package immutable;
 
 class Student {
     final String name;
